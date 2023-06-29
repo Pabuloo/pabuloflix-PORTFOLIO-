@@ -1,3 +1,3 @@
-# pabuloflix-PORTIF-LIO-
+# pabuloflix-PORTIFOLIO-
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-dgsdyw)
